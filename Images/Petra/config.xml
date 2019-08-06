@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Config file for Petra Gallery -->
+<juiceboxgallery
+	galleryTitle=""
+>
+  <image imageURL="Images/petra (0).jpg"
+	thumbURL="thumbs/petra (0).jpg"
+	linkURL="Images/petra (0).jpg"
+	linkTarget="_blank">
+	<title></title>
+	<caption></caption>
+  </image>
+  <image imageURL="Images/petra (1).jpg"
+	thumbURL="thumbs/petra (1).jpg"
+	linkURL="Images/petra (1).jpg"
+	linkTarget="_blank">
+	<title></title>
+	<caption></caption>
+  </image>
+  <image imageURL="Images/petra (2).jpg"
+	thumbURL="thumbs/petra (2).jpg"
+	linkURL="Images/petra (2).jpg"
+	linkTarget="_blank">
+	<title></title>
+	<caption></caption>
+  </image>
+  <image imageURL="Images/petra (3).jpg"
+	thumbURL="thumbs/petra (3).jpg"
+	linkURL="Images/petra (3).jpg"
+	linkTarget="_blank">
+	<title></title>
+	<caption></caption>
+  </image>
+  <image imageURL="Images/petra (4).jpg"
+	thumbURL="thumbs/petra (4).jpg"
+	linkURL="Images/petra (4).jpg"
+	linkTarget="_blank">
+	<title></title>
+	<caption></caption>
+  </image>
+  <image imageURL="Images/petra (5).jpg"
+	thumbURL="thumbs/petra (5).jpg"
+	linkURL="Images/petra (5).jpg"
+	linkTarget="_blank">
+	<title></title>
+	<caption></caption>
+  </image>
+  <image imageURL="Images/petra (6).jpg"
+	thumbURL="thumbs/petra (6).jpg"
+	linkURL="Images/petra (6).jpg"
+	linkTarget="_blank">
+	<title></title>
+	<caption></caption>
+  </image>
+  <image imageURL="Images/petra (7).jpg"
+	thumbURL="thumbs/petra (7).jpg"
+	linkURL="Images/petra (7).jpg"
+	linkTarget="_blank">
+	<title></title>
+	<caption></caption>
+  </image>
+  <image imageURL="Images/petra (8).jpg"
+	thumbURL="thumbs/petra (8).jpg"
+	linkURL="Images/petra (8).jpg"
+	linkTarget="_blank">
+	<title></title>
+	<caption></caption>
+  </image>
+  <image imageURL="Images/petra (9).jpg"
+	thumbURL="thumbs/petra (9).jpg"
+	linkURL="Images/petra (9).jpg"
+	linkTarget="_blank">
+	<title></title>
+	<caption></caption>
+  </image>
+  <image imageURL="Images/petra (10).jpg"
+	thumbURL="thumbs/petra (10).jpg"
+	linkURL="Images/petra (10).jpg"
+	linkTarget="_blank">
+	<title></title>
+	<caption></caption>
+  </image>
+  <image imageURL="Images/petra (11).jpg"
+	thumbURL="thumbs/petra (11).jpg"
+	linkURL="Images/petra (11).jpg"
+	linkTarget="_blank">
+	<title></title>
+	<caption></caption>
+  </image>
+  <image imageURL="Images/petra (12).jpg"
+	thumbURL="thumbs/petra (12).jpg"
+	linkURL="Images/petra (12).jpg"
+	linkTarget="_blank">
+	<title></title>
+	<caption></caption>
+  </image>
+  <image imageURL="Images/petra (13).jpg"
+	thumbURL="thumbs/petra (13).jpg"
+	linkURL="Images/petra (13).jpg"
+	linkTarget="_blank">
+	<title></title>
+	<caption></caption>
+  </image>
+  <image imageURL="Images/petra (14).jpg"
+	thumbURL="thumbs/petra (14).jpg"
+	linkURL="Images/petra (14).jpg"
+	linkTarget="_blank">
+	<title></title>
+	<caption></caption>
+  </image>
+  <image imageURL="Images/petra (15).jpg"
+	thumbURL="thumbs/petra (15).jpg"
+	linkURL="Images/petra (15).jpg"
+	linkTarget="_blank">
+	<title></title>
+	<caption></caption>
+  </image>
+  <image imageURL="Images/petra (16).jpg"
+	thumbURL="thumbs/petra (16).jpg"
+	linkURL="Images/petra (16).jpg"
+	linkTarget="_blank">
+	<title></title>
+	<caption></caption>
+  </image>
+  <image imageURL="Images/petra (17).jpg"
+	thumbURL="thumbs/petra (17).jpg"
+	linkURL="Images/petra (17).jpg"
+	linkTarget="_blank">
+	<title></title>
+	<caption></caption>
+  </image>
+  <image imageURL="Images/petra (18).jpg"
+	thumbURL="thumbs/petra (18).jpg"
+	linkURL="Images/petra (18).jpg"
+	linkTarget="_blank">
+	<title></title>
+	<caption></caption>
+  </image>
+  <image imageURL="Images/petra (19).jpg"
+	thumbURL="thumbs/petra (19).jpg"
+	linkURL="Images/petra (19).jpg"
+	linkTarget="_blank">
+	<title></title>
+	<caption></caption>
+  </image>
+  <image imageURL="Images/petra (20).jpg"
+	thumbURL="thumbs/petra (20).jpg"
+	linkURL="Images/petra (20).jpg"
+	linkTarget="_blank">
+	<title></title>
+	<caption></caption>
+  </image>
+  <image imageURL="Images/petra (21).jpg"
+	thumbURL="thumbs/petra (21).jpg"
+	linkURL="Images/petra (21).jpg"
+	linkTarget="_blank">
+	<title></title>
+	<caption></caption>
+  </image>
+  <image imageURL="Images/petra (22).jpg"
+	thumbURL="thumbs/petra (22).jpg"
+	linkURL="Images/petra (22).jpg"
+	linkTarget="_blank">
+	<title></title>
+	<caption></caption>
+  </image>
+  <image imageURL="Images/petra (23).jpg"
+	thumbURL="thumbs/petra (23).jpg"
+	linkURL="Images/petra (23).jpg"
+	linkTarget="_blank">
+	<title></title>
+	<caption></caption>
+  </image>
+  <image imageURL="Images/petra (24).jpg"
+	thumbURL="thumbs/petra (24).jpg"
+	linkURL="Images/petra (24).jpg"
+	linkTarget="_blank">
+	<title></title>
+	<caption></caption>
+  </image>
+  <image imageURL="Images/petra (25).jpg"
+	thumbURL="thumbs/petra (25).jpg"
+	linkURL="Images/petra (25).jpg"
+	linkTarget="_blank">
+	<title></title>
+	<caption></caption>
+  </image>
+  <image imageURL="Images/petra (26).jpg"
+	thumbURL="thumbs/petra (26).jpg"
+	linkURL="Images/petra (26).jpg"
+	linkTarget="_blank">
+	<title></title>
+	<caption></caption>
+  </image>
+  <image imageURL="Images/petra (27).jpg"
+	thumbURL="thumbs/petra (27).jpg"
+	linkURL="Images/petra (27).jpg"
+	linkTarget="_blank">
+	<title></title>
+	<caption></caption>
+  </image>
+  <image imageURL="Images/petra (28).jpg"
+	thumbURL="thumbs/petra (28).jpg"
+	linkURL="Images/petra (28).jpg"
+	linkTarget="_blank">
+	<title></title>
+	<caption></caption>
+  </image>
+  <image imageURL="Images/petra (29).jpg"
+	thumbURL="thumbs/petra (29).jpg"
+	linkURL="Images/petra (29).jpg"
+	linkTarget="_blank">
+	<title></title>
+	<caption></caption>
+  </image>
+  <image imageURL="Images/petra (30).jpg"
+	thumbURL="thumbs/petra (30).jpg"
+	linkURL="Images/petra (30).jpg"
+	linkTarget="_blank">
+	<title></title>
+	<caption></caption>
+  </image>
+  <image imageURL="Images/petra (31).jpg"
+	thumbURL="thumbs/petra (31).jpg"
+	linkURL="Images/petra (31).jpg"
+	linkTarget="_blank">
+	<title></title>
+	<caption></caption>
+  </image>
+  <image imageURL="Images/petra (32).jpg"
+	thumbURL="thumbs/petra (32).jpg"
+	linkURL="Images/petra (32).jpg"
+	linkTarget="_blank">
+	<title></title>
+	<caption></caption>
+  </image>
+  <image imageURL="Images/petra (33).jpg"
+	thumbURL="thumbs/petra (33).jpg"
+	linkURL="Images/petra (33).jpg"
+	linkTarget="_blank">
+	<title></title>
+	<caption></caption>
+  </image>
+  <image imageURL="Images/petra (34).jpg"
+	thumbURL="thumbs/petra (34).jpg"
+	linkURL="Images/petra (34).jpg"
+	linkTarget="_blank">
+	<title></title>
+	<caption></caption>
+  </image>
+  <image imageURL="Images/petra (35).jpg"
+	thumbURL="thumbs/petra (35).jpg"
+	linkURL="Images/petra (35).jpg"
+	linkTarget="_blank">
+	<title></title>
+	<caption></caption>
+  </image>
+  <image imageURL="Images/petra (36).jpg"
+	thumbURL="thumbs/petra (36).jpg"
+	linkURL="Images/petra (36).jpg"
+	linkTarget="_blank">
+	<title></title>
+	<caption></caption>
+  </image>
+  <image imageURL="Images/petra (37).jpg"
+	thumbURL="thumbs/petra (37).jpg"
+	linkURL="Images/petra (37).jpg"
+	linkTarget="_blank">
+	<title></title>
+	<caption></caption>
+  </image>
+  <image imageURL="Images/petra (38).jpg"
+	thumbURL="thumbs/petra (38).jpg"
+	linkURL="Images/petra (38).jpg"
+	linkTarget="_blank">
+	<title></title>
+	<caption></caption>
+  </image>
+  <image imageURL="Images/petra (39).jpg"
+	thumbURL="thumbs/petra (39).jpg"
+	linkURL="Images/petra (39).jpg"
+	linkTarget="_blank">
+	<title></title>
+	<caption></caption>
+  </image>
+  <image imageURL="Images/petra (40).jpg"
+	thumbURL="thumbs/petra (40).jpg"
+	linkURL="Images/petra (40).jpg"
+	linkTarget="_blank">
+	<title></title>
+	<caption></caption>
+  </image>
+  <image imageURL="Images/petra (41).jpg"
+	thumbURL="thumbs/petra (41).jpg"
+	linkURL="Images/petra (41).jpg"
+	linkTarget="_blank">
+	<title></title>
+	<caption></caption>
+  </image>
+   <!-- 
+  <image imageURL="Images/petra (42).jpg"
+	thumbURL="thumbs/petra (42).jpg"
+	linkURL="Images/petra (42).jpg"
+	linkTarget="_blank">
+	<title></title>
+	<caption></caption>
+  </image>
+<image imageURL="Images/petra (43).jpg"
+	thumbURL="thumbs/petra (43).jpg"
+	linkURL="Images/petra (43).jpg"
+	linkTarget="_blank">
+	<title></title>
+	<caption></caption>
+  </image>
+  <image imageURL="Images/petra (44).jpg"
+	thumbURL="thumbs/petra (44).jpg"
+	linkURL="Images/petra (44).jpg"
+	linkTarget="_blank">
+	<title></title>
+	<caption></caption>
+  </image>
+  <image imageURL="Images/petra (45).jpg"
+	thumbURL="thumbs/petra (45).jpg"
+	linkURL="Images/petra (45).jpg"
+	linkTarget="_blank">
+	<title></title>
+	<caption></caption>
+  </image>
+  <image imageURL="Images/petra (46).jpg"
+	thumbURL="thumbs/petra (46).jpg"
+	linkURL="Images/petra (46).jpg"
+	linkTarget="_blank">
+	<title></title>
+	<caption></caption>
+  </image>
+  <image imageURL="Images/petra (47).jpg"
+	thumbURL="thumbs/petra (47).jpg"
+	linkURL="Images/petra (47).jpg"
+	linkTarget="_blank">
+	<title></title>
+	<caption></caption>
+  </image>
+  <image imageURL="Images/petra (48).jpg"
+	thumbURL="thumbs/petra (48).jpg"
+	linkURL="Images/petra (48).jpg"
+	linkTarget="_blank">
+	<title></title>
+	<caption></caption>
+  </image>
+  <image imageURL="Images/petra (49).jpg"
+	thumbURL="thumbs/petra (49).jpg"
+	linkURL="Images/petra (49).jpg"
+	linkTarget="_blank">
+	<title></title>
+	<caption></caption>
+  </image>
+  <image imageURL="Images/petra (50).jpg"
+	thumbURL="thumbs/petra (50).jpg"
+	linkURL="Images/petra (50).jpg"
+	linkTarget="_blank">
+	<title></title>
+	<caption></caption>
+  </image>-->
+</juiceboxgallery>

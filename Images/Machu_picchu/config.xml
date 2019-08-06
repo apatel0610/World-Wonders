@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Config file for Machu Picchu Gallery -->
+<juiceboxgallery
+	galleryTitle=""
+>
+  <image imageURL="Images/machu_picchu (0).jpg"
+	thumbURL="thumbs/machu_picchu (0).jpg"
+	linkURL="Images/machu_picchu (0).jpg"
+	linkTarget="_blank">
+	<title></title>
+	<caption></caption>
+  </image>
+  <image imageURL="Images/machu_picchu (1).jpg"
+	thumbURL="thumbs/machu_picchu (1).jpg"
+	linkURL="Images/machu_picchu (1).jpg"
+	linkTarget="_blank">
+	<title></title>
+	<caption></caption>
+  </image>
+  <image imageURL="Images/machu_picchu (2).jpg"
+	thumbURL="thumbs/machu_picchu (2).jpg"
+	linkURL="Images/machu_picchu (2).jpg"
+	linkTarget="_blank">
+	<title></title>
+	<caption></caption>
+  </image>
+  <image imageURL="Images/machu_picchu (3).jpg"
+	thumbURL="thumbs/machu_picchu (3).jpg"
+	linkURL="Images/machu_picchu (3).jpg"
+	linkTarget="_blank">
+	<title></title>
+	<caption></caption>
+  </image>
+  <image imageURL="Images/machu_picchu (4).jpg"
+	thumbURL="thumbs/machu_picchu (4).jpg"
+	linkURL="Images/machu_picchu (4).jpg"
+	linkTarget="_blank">
+	<title></title>
+	<caption></caption>
+  </image>
+  <image imageURL="Images/machu_picchu (5).jpg"
+	thumbURL="thumbs/machu_picchu (5).jpg"
+	linkURL="Images/machu_picchu (5).jpg"
+	linkTarget="_blank">
+	<title></title>
+	<caption></caption>
+  </image>
+  <image imageURL="Images/machu_picchu (6).jpg"
+	thumbURL="thumbs/machu_picchu (6).jpg"
+	linkURL="Images/machu_picchu (6).jpg"
+	linkTarget="_blank">
+	<title></title>
+	<caption></caption>
+  </image>
+  <image imageURL="Images/machu_picchu (7).jpg"
+	thumbURL="thumbs/machu_picchu (7).jpg"
+	linkURL="Images/machu_picchu (7).jpg"
+	linkTarget="_blank">
+	<title></title>
+	<caption></caption>
+  </image>
+  <image imageURL="Images/machu_picchu (8).jpg"
+	thumbURL="thumbs/machu_picchu (8).jpg"
+	linkURL="Images/machu_picchu (8).jpg"
+	linkTarget="_blank">
+	<title></title>
+	<caption></caption>
+  </image>
+  <image imageURL="Images/machu_picchu (9).jpg"
+	thumbURL="thumbs/machu_picchu (9).jpg"
+	linkURL="Images/machu_picchu (9).jpg"
+	linkTarget="_blank">
+	<title></title>
+	<caption></caption>
+  </image>
+  <image imageURL="Images/machu_picchu (10).jpg"
+	thumbURL="thumbs/machu_picchu (10).jpg"
+	linkURL="Images/machu_picchu (10).jpg"
+	linkTarget="_blank">
+	<title></title>
+	<caption></caption>
+  </image>
+  <image imageURL="Images/machu_picchu (11).jpg"
+	thumbURL="thumbs/machu_picchu (11).jpg"
+	linkURL="Images/machu_picchu (11).jpg"
+	linkTarget="_blank">
+	<title></title>
+	<caption></caption>
+  </image>
+  <image imageURL="Images/machu_picchu (12).jpg"
+	thumbURL="thumbs/machu_picchu (12).jpg"
+	linkURL="Images/machu_picchu (12).jpg"
+	linkTarget="_blank">
+	<title></title>
+	<caption></caption>
+  </image>
+  <image imageURL="Images/machu_picchu (13).jpg"
+	thumbURL="thumbs/machu_picchu (13).jpg"
+	linkURL="Images/machu_picchu (13).jpg"
+	linkTarget="_blank">
+	<title></title>
+	<caption></caption>
+  </image>
+  <image imageURL="Images/machu_picchu (14).jpg"
+	thumbURL="thumbs/machu_picchu (14).jpg"
+	linkURL="Images/machu_picchu (14).jpg"
+	linkTarget="_blank">
+	<title></title>
+	<caption></caption>
+  </image>
+  <image imageURL="Images/machu_picchu (15).jpg"
+	thumbURL="thumbs/machu_picchu (15).jpg"
+	linkURL="Images/machu_picchu (15).jpg"
+	linkTarget="_blank">
+	<title></title>
+	<caption></caption>
+  </image>
+  <image imageURL="Images/machu_picchu (16).jpg"
+	thumbURL="thumbs/machu_picchu (16).jpg"
+	linkURL="Images/machu_picchu (16).jpg"
+	linkTarget="_blank">
+	<title></title>
+	<caption></caption>
+  </image>
+  <image imageURL="Images/machu_picchu (17).jpg"
+	thumbURL="thumbs/machu_picchu (17).jpg"
+	linkURL="Images/machu_picchu (17).jpg"
+	linkTarget="_blank">
+	<title></title>
+	<caption></caption>
+  </image>
+  <image imageURL="Images/machu_picchu (18).jpg"
+	thumbURL="thumbs/machu_picchu (18).jpg"
+	linkURL="Images/machu_picchu (18).jpg"
+	linkTarget="_blank">
+	<title></title>
+	<caption></caption>
+  </image>
+  <image imageURL="Images/machu_picchu (19).jpg"
+	thumbURL="thumbs/machu_picchu (19).jpg"
+	linkURL="Images/machu_picchu (19).jpg"
+	linkTarget="_blank">
+	<title></title>
+	<caption></caption>
+  </image>
+  <image imageURL="Images/machu_picchu (20).jpg"
+	thumbURL="thumbs/machu_picchu (20).jpg"
+	linkURL="Images/machu_picchu (20).jpg"
+	linkTarget="_blank">
+	<title></title>
+	<caption></caption>
+  </image>
+  <image imageURL="Images/machu_picchu (21).jpg"
+	thumbURL="thumbs/machu_picchu (21).jpg"
+	linkURL="Images/machu_picchu (21).jpg"
+	linkTarget="_blank">
+	<title></title>
+	<caption></caption>
+  </image>
+  <image imageURL="Images/machu_picchu (22).jpg"
+	thumbURL="thumbs/machu_picchu (22).jpg"
+	linkURL="Images/machu_picchu (22).jpg"
+	linkTarget="_blank">
+	<title></title>
+	<caption></caption>
+  </image>
+  <image imageURL="Images/machu_picchu (23).jpg"
+	thumbURL="thumbs/machu_picchu (23).jpg"
+	linkURL="Images/machu_picchu (23).jpg"
+	linkTarget="_blank">
+	<title></title>
+	<caption></caption>
+  </image>
+  <image imageURL="Images/machu_picchu (24).jpg"
+	thumbURL="thumbs/machu_picchu (24).jpg"
+	linkURL="Images/machu_picchu (24).jpg"
+	linkTarget="_blank">
+	<title></title>
+	<caption></caption>
+  </image>
+  <image imageURL="Images/machu_picchu (25).jpg"
+	thumbURL="thumbs/machu_picchu (25).jpg"
+	linkURL="Images/machu_picchu (25).jpg"
+	linkTarget="_blank">
+	<title></title>
+	<caption></caption>
+  </image>
+  <image imageURL="Images/machu_picchu (26).jpg"
+	thumbURL="thumbs/machu_picchu (26).jpg"
+	linkURL="Images/machu_picchu (26).jpg"
+	linkTarget="_blank">
+	<title></title>
+	<caption></caption>
+  </image>
+  <image imageURL="Images/machu_picchu (27).jpg"
+	thumbURL="thumbs/machu_picchu (27).jpg"
+	linkURL="Images/machu_picchu (27).jpg"
+	linkTarget="_blank">
+	<title></title>
+	<caption></caption>
+  </image>
+  <image imageURL="Images/machu_picchu (28).jpg"
+	thumbURL="thumbs/machu_picchu (28).jpg"
+	linkURL="Images/machu_picchu (28).jpg"
+	linkTarget="_blank">
+	<title></title>
+	<caption></caption>
+  </image>
+  <image imageURL="Images/machu_picchu (29).jpg"
+	thumbURL="thumbs/machu_picchu (29).jpg"
+	linkURL="Images/machu_picchu (29).jpg"
+	linkTarget="_blank">
+	<title></title>
+	<caption></caption>
+  </image>
+  <image imageURL="Images/machu_picchu (30).jpg"
+	thumbURL="thumbs/machu_picchu (30).jpg"
+	linkURL="Images/machu_picchu (30).jpg"
+	linkTarget="_blank">
+	<title></title>
+	<caption></caption>
+  </image>
+  <image imageURL="Images/machu_picchu (31).jpg"
+	thumbURL="thumbs/machu_picchu (31).jpg"
+	linkURL="Images/machu_picchu (31).jpg"
+	linkTarget="_blank">
+	<title></title>
+	<caption></caption>
+  </image>
+  <image imageURL="Images/machu_picchu (32).jpg"
+	thumbURL="thumbs/machu_picchu (32).jpg"
+	linkURL="Images/machu_picchu (32).jpg"
+	linkTarget="_blank">
+	<title></title>
+	<caption></caption>
+  </image>
+  <image imageURL="Images/machu_picchu (33).jpg"
+	thumbURL="thumbs/machu_picchu (33).jpg"
+	linkURL="Images/machu_picchu (33).jpg"
+	linkTarget="_blank">
+	<title></title>
+	<caption></caption>
+  </image>
+  <image imageURL="Images/machu_picchu (34).jpg"
+	thumbURL="thumbs/machu_picchu (34).jpg"
+	linkURL="Images/machu_picchu (34).jpg"
+	linkTarget="_blank">
+	<title></title>
+	<caption></caption>
+  </image>
+  <image imageURL="Images/machu_picchu (35).jpg"
+	thumbURL="thumbs/machu_picchu (35).jpg"
+	linkURL="Images/machu_picchu (35).jpg"
+	linkTarget="_blank">
+	<title></title>
+	<caption></caption>
+  </image>
+  <image imageURL="Images/machu_picchu (36).jpg"
+	thumbURL="thumbs/machu_picchu (36).jpg"
+	linkURL="Images/machu_picchu (36).jpg"
+	linkTarget="_blank">
+	<title></title>
+	<caption></caption>
+  </image>
+  <image imageURL="Images/machu_picchu (37).jpg"
+	thumbURL="thumbs/machu_picchu (37).jpg"
+	linkURL="Images/machu_picchu (37).jpg"
+	linkTarget="_blank">
+	<title></title>
+	<caption></caption>
+  </image>
+  <image imageURL="Images/machu_picchu (38).jpg"
+	thumbURL="thumbs/machu_picchu (38).jpg"
+	linkURL="Images/machu_picchu (38).jpg"
+	linkTarget="_blank">
+	<title></title>
+	<caption></caption>
+  </image>
+
+<!--
+  <image imageURL="Images/machu_picchu (39).jpg"
+	thumbURL="thumbs/machu_picchu (39).jpg"
+	linkURL="Images/machu_picchu (39).jpg"
+	linkTarget="_blank">
+	<title></title>
+	<caption></caption>
+  </image>
+  <image imageURL="Images/machu_picchu (40).jpg"
+	thumbURL="thumbs/machu_picchu (40).jpg"
+	linkURL="Images/machu_picchu (40).jpg"
+	linkTarget="_blank">
+	<title></title>
+	<caption></caption>
+  </image>
+  <image imageURL="Images/machu_picchu (41).jpg"
+	thumbURL="thumbs/machu_picchu (41).jpg"
+	linkURL="Images/machu_picchu (41).jpg"
+	linkTarget="_blank">
+	<title></title>
+	<caption></caption>
+  </image>
+  <image imageURL="Images/machu_picchu (42).jpg"
+	thumbURL="thumbs/machu_picchu (42).jpg"
+	linkURL="Images/machu_picchu (42).jpg"
+	linkTarget="_blank">
+	<title></title>
+	<caption></caption>
+  </image> 
+  <image imageURL="Images/machu_picchu (43).jpg"
+	thumbURL="thumbs/machu_picchu (43).jpg"
+	linkURL="Images/machu_picchu (43).jpg"
+	linkTarget="_blank">
+	<title></title>
+	<caption></caption>
+  </image>
+  <image imageURL="Images/machu_picchu (44).jpg"
+	thumbURL="thumbs/machu_picchu (44).jpg"
+	linkURL="Images/machu_picchu (44).jpg"
+	linkTarget="_blank">
+	<title></title>
+	<caption></caption>
+  </image>
+  <image imageURL="Images/machu_picchu (45).jpg"
+	thumbURL="thumbs/machu_picchu (45).jpg"
+	linkURL="Images/machu_picchu (45).jpg"
+	linkTarget="_blank">
+	<title></title>
+	<caption></caption>
+  </image>
+  <image imageURL="Images/machu_picchu (46).jpg"
+	thumbURL="thumbs/machu_picchu (46).jpg"
+	linkURL="Images/machu_picchu (46).jpg"
+	linkTarget="_blank">
+	<title></title>
+	<caption></caption>
+  </image>
+  <image imageURL="Images/machu_picchu (47).jpg"
+	thumbURL="thumbs/machu_picchu (47).jpg"
+	linkURL="Images/machu_picchu (47).jpg"
+	linkTarget="_blank">
+	<title></title>
+	<caption></caption>
+  </image>
+  <image imageURL="Images/machu_picchu (48).jpg"
+	thumbURL="thumbs/machu_picchu (48).jpg"
+	linkURL="Images/machu_picchu (48).jpg"
+	linkTarget="_blank">
+	<title></title>
+	<caption></caption>
+  </image>
+  <image imageURL="Images/machu_picchu (49).jpg"
+	thumbURL="thumbs/machu_picchu (49).jpg"
+	linkURL="Images/machu_picchu (49).jpg"
+	linkTarget="_blank">
+	<title></title>
+	<caption></caption>
+  </image>
+  <image imageURL="Images/machu_picchu (50).jpg"
+	thumbURL="thumbs/machu_picchu (50).jpg"
+	linkURL="Images/machu_picchu (50).jpg"
+	linkTarget="_blank">
+	<title></title>
+	<caption></caption>
+  </image>
+-->
+</juiceboxgallery>
